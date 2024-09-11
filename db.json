@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Moto G Power Pro Max",
+      "brand": "Motorola",
+      "category": "phones",
+      "price": 20000,
+      "description": "This is motorola brand!",
+      "imageFilename": "images.jpeg",
+      "createdAt": ""
+    },
+    {
+      "id": 2,
+      "name": "iphone 12",
+      "brand": "Iphone",
+      "category": "phones",
+      "price": 45000,
+      "description": "This is Iphone brand!",
+      "imageFilename": "iphone12.jpeg",
+      "createdAt": ""
+    },
+    {
+      "name": "hello",
+      "brand": "eds",
+      "category": "Computer",
+      "price": 6786787,
+      "description": "fghgj gjgh",
+      "imageFilename": "1725881068342_images (27).jpeg",
+      "createAt": "2024-09-09T11:24:28.343Z",
+      "id": 6
+    },
+    {
+      "name": "Akash ",
+      "brand": "Akash bombay wala",
+      "category": "Accessories",
+      "price": 1,
+      "description": "fsdafsafdfafa",
+      "imageFilename": "1725881144742_images (21).jpeg",
+      "createAt": "2024-09-09T11:25:44.743Z",
+      "id": 7
+    },
+    {
+      "name": "iphone 13 ",
+      "brand": "iphone",
+      "category": "Phone",
+      "price": 65000,
+      "description": "this is apple brand",
+      "imageFilename": "1725884119797_download (19).jpeg",
+      "createAt": "2024-09-09T12:15:19.798Z",
+      "id": 8
+    },
+    {
+      "name": "iphone 15 pro",
+      "brand": "apple",
+      "category": "Phone",
+      "price": "90000",
+      "description": "this is Apple ",
+      "imageFilename": "1725949159908_download (17).jpeg",
+      "createAt": "2024-09-09T12:48:56.321Z",
+      "id": 9
+    },
+    {
+      "name": "Lenevo IdeaPad Pro 5 Intel, ",
+      "brand": "Lenevo",
+      "category": "Computer",
+      "price": 76000,
+      "description": "1 Year Onsite Warranty\r\n1 Year Premium Care\r\n1 Year Accidental Damage Protection\r\nMS Office H&S 2021\r\nLenovo Urban 39.6cms (15.6) B535 Backpack at Rs 1",
+      "imageFilename": "1725949507623_download (2).jpeg",
+      "createAt": "2024-09-10T06:25:07.625Z",
+      "id": 10
+    }
+  ]
+}
